@@ -1,7 +1,5 @@
 ![](https://komarev.com/ghpvc/?username=oscarwallnoefer&style=plastic)
 
-[![Sparkline](https://stars.medv.io/Naereen/badges.svg)](https://stars.medv.io/Naereen/badges)
-
 ## About me
 Currently, I am a second-year PhD student at the University of Bologna (Italy) in molecular evolution.
 
