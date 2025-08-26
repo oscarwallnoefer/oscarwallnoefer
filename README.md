@@ -15,5 +15,5 @@ Furthermore, I collaborate with other research groups:
   + **Tardigrada** - The Arctic University of Norway (Tromsø, PI: B. Fromm) and University of Modena and Reggio Emilia (Italy, PI: M. Cesari).
   + **Gastrotricha** - The Arctic University of Norway (Tromsø, PI: B. Fromm) and University of Modena and Reggio Emilia (Italy, PI: A. Todaro)
 
-## CV
+## Curriculum Vitae
 About my path: in the `cvbox` repo I upload constantly the updated version of my cv. 
