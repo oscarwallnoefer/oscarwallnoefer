@@ -16,4 +16,4 @@ Furthermore, I collaborate with other research groups:
   + **Gastrotricha** - The Arctic University of Norway (Tromsø, PI: B. Fromm) and University of Modena and Reggio Emilia (Italy, PI: A. Todaro)
 
 ## Curriculum Vitae
-About my path: in the `cvbox` repo I upload constantly the updated version of my cv. 
+About my path: in the `cvBox` repo I upload constantly the updated version of my cv. 
