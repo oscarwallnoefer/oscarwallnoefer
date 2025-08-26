@@ -1,6 +1,6 @@
 ![](https://komarev.com/ghpvc/?username=oscarwallnoefer&style=plastic)
 
-## About me
+## About Me
 Currently, I am a second-year PhD student at the University of Bologna (Italy) in molecular evolution.
 
 ## PhD Projects Description
