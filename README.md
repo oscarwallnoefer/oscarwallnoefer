@@ -3,7 +3,7 @@
 ## About Me
 Currently, I am a second-year PhD student at the University of Bologna (Italy) in molecular evolution.
 
-## PhD Projects Description
+## PhD Projects 
 My PhD project focuses on investigating the functionality of **smithRNAs**, a class of mitochondrially-encoded class of sncRNAs that influence nuclear transcription through RNAi in the Manila clam *Ruditapes philippinarum* (PI: M. Passamonti; F. Plazzi).
 
 Overall, my research interests encompass the broad theme of **mito-nuclear coevolution** in metazoans. 
