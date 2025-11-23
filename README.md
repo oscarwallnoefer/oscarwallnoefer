@@ -1,19 +1,15 @@
 ![](https://komarev.com/ghpvc/?username=oscarwallnoefer&style=plastic)
 
-## About Me
-Currently, I am a second-year PhD student at the University of Bologna (Italy) in molecular evolution.
-
-## PhD Projects 
-My PhD project focuses on investigating the functionality of **smithRNAs**, a class of mitochondrially-encoded class of sncRNAs that influence nuclear transcription through RNAi in the Manila clam *Ruditapes philippinarum* (PI: M. Passamonti; F. Plazzi).
-
-Overall, my research interests encompass the broad theme of **mito-nuclear coevolution** in metazoans. 
-For instance, I am conducting projects about mitonuclear coevolution in proteins involved in the oxidative phosphorylation pathway in the Squamata order.
-Furthermore, I collaborate with other research groups:
+## My projects
+Currently, I am a third-year PhD student at the University of Bologna.
+Overall, my research interests encompass the broad theme of **mito-nuclear coevolution** in metazoans, with a particular focus on the impact of coevolution in shaping the phylogenetic signal.
+I am investigating the functionality of **smithRNAs**, a class of sncRNAs encoded in the mitochondrial genome. SmithRNAs influence nuclear transcription through RNAi in the Manila clam *Ruditapes philippinarum*, our species model for this project (PI: M. Passamonti; F. Plazzi; [MitoMicro](https://sites.google.com/unisi.it/mitomicro/home)).
+I collaborate with other research groups on:
 
 + **First large-scale phylogenomics on the Gastrotricha phylum** - University of Modena and Reggio Emilia (Italy, PI: A. Todaro).
 + **MicroRNA annotation** in:
-  + **Tardigrada** - The Arctic University of Norway (Tromsø, PI: B. Fromm) and University of Modena and Reggio Emilia (Italy, PI: M. Cesari).
-  + **Gastrotricha** - The Arctic University of Norway (Tromsø, PI: B. Fromm) and University of Modena and Reggio Emilia (Italy, PI: A. Todaro)
+  + **Tardigrada** - The Arctic University of Norway (PI: B. Fromm) and University of Modena and Reggio Emilia (PI: M. Cesari).
+  + **Gastrotricha** - The Arctic University of Norway (PI: B. Fromm) and University of Modena and Reggio Emilia (PI: A. Todaro)
 
 ## Curriculum Vitae
-About my path: in the `cvBox` repo I upload constantly the updated version of my cv. 
+See the `cvBox` repository. 
