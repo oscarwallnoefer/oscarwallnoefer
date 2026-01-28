@@ -1,5 +1,3 @@
-![](https://komarev.com/ghpvc/?username=oscarwallnoefer&style=plastic)
-
 ## My projects
 
 I am currently a third-year PhD student at the University of Bologna.  
@@ -12,7 +10,6 @@ Here is a list of my research projects:
 - **microRNA annotation** in:
   - **Tardigrada** — collaboration with The Arctic University of Norway (PI: B. Fromm) and the University of Modena and Reggio Emilia (PI: M. Cesari).
   - **Gastrotricha** — collaboration with The Arctic University of Norway (PI: B. Fromm) and the University of Modena and Reggio Emilia (PI: A. Todaro).
-
 
 ## Curriculum Vitae
 See the `cvBox` repository. 
