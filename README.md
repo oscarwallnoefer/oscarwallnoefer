@@ -21,7 +21,6 @@ The most characterized interface of this coevolution is the **oxidative phosphor
 
 +  **Can mitonuclear interactions influence phylogenetic signal?**
 +  **Does mitonuclear coevolution extend beyond OXPHOS?**
-+  **To what extent do nuclear and mitochondrial proteins coevolve? How broad is the mitonuclear coevolutionary landscape across the proteome?**
 
 Using **squamate reptiles** as a model system, I investigated these questions through two complementary approaches with different resolution: coevolution between physically interacting proteins (using OXPHOS subunits), and a proteome-wide investigation to identify those pathways that likely coevolve with mitochondrial genome. 
 
