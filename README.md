@@ -13,7 +13,7 @@ Here is a list of my research projects:
 
 ---
 
-:dna: ## Mitonuclear coevolution through coding genes
+## :dna: Mitonuclear coevolution through coding genes
 
 Within the eukaryotic cell, two physically separate genomes, nuclear and mitochondrial, must maintain functional compatibility despite differing mutation rates, inheritance patterns, and evolutionary pressures. **Mitonuclear coevolution** describes the processes that maintain this compatibility over evolutionary time.
 
@@ -32,7 +32,7 @@ Using squamate reptiles as a model system, I investigated these questions throug
 
 ---
 
-## Mitonuclear coevolution through non-coding genes
+## :dna: Mitonuclear coevolution through non-coding genes
 
 Mitonuclear coevolution is not limited to protein interactions. Non-coding RNAs represent an additional and largely underexplored layer of regulation linking the two genomes.
 
@@ -56,7 +56,7 @@ I am investigating these questions across two systems: Gastrotricha for microRNA
 
 ---
 
-## Phylogenomics of understudied animal phyla
+## :dna: Phylogenomics of understudied animal phyla
 
 Investigating genome evolution requires robust phylogenetic frameworks. In parallel to my main research, I have contributed to phylogenomic studies of Gastrotricha and Spiralia, two groups whose evolutionary relationships remain debated.
 
