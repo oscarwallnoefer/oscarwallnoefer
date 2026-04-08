@@ -13,7 +13,7 @@ Here is a list of my research projects:
 
 ---
 
-## Mitonuclear coevolution through coding genes
+:dna: ## Mitonuclear coevolution through coding genes
 
 Within the eukaryotic cell, two physically separate genomes, nuclear and mitochondrial, must maintain functional compatibility despite differing mutation rates, inheritance patterns, and evolutionary pressures. **Mitonuclear coevolution** describes the processes that maintain this compatibility over evolutionary time.
 
