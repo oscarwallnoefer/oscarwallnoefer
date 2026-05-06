@@ -11,9 +11,6 @@ Here is a list of my research projects:
 * [**Mitonuclear coevolution through non-coding genes**](#mitonuclear-coevolution-through-non-coding-genes)
 * [**Phylogenomics of understudied animal phyla**](#phylogenomics-of-understudied-animal-phyla)
 
----
----
-
 <details>
 <summary> :dna: Mitonuclear coevolution through coding genes </summary>
 
@@ -36,7 +33,6 @@ Using squamate reptiles as a model system, I investigated these questions throug
 
 </details>
 
----
 <details>
 <summary> :dna: Mitonuclear coevolution through non-coding genes </summary>
 
@@ -64,7 +60,6 @@ I am investigating these questions across two systems: Gastrotricha for microRNA
 
 </details>
 
----
 <details>
 <summary> :dna: Phylogenomics of understudied animal phyla </summary>
 
