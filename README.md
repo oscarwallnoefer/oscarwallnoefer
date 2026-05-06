@@ -12,6 +12,8 @@ Here is a list of my research projects:
 * [**Phylogenomics of understudied animal phyla**](#phylogenomics-of-understudied-animal-phyla)
 
 ---
+---
+
 <details>
 <summary> :dna: Mitonuclear coevolution through coding genes </summary>
 
