@@ -55,8 +55,9 @@ I am investigating these questions across two systems: Gastrotricha for microRNA
 [↑ Go up ↑](#my-projects)
 
 ---
+<details>
 
-## :dna: Phylogenomics of understudied animal phyla
+<summary>## :dna: Phylogenomics of understudied animal phyla</summary>
 
 Investigating genome evolution requires robust phylogenetic frameworks. In parallel to my main research, I have contributed to phylogenomic studies of Gastrotricha and Spiralia, two groups whose evolutionary relationships remain debated.
 
@@ -72,5 +73,7 @@ These projects were developed in tight collaboration with the University of Mode
 ### Main collaborator
 * Prof. **M. Antonio Todaro** (University of Modena and Reggio Emilia)
 
+</details>
+  
 [↑ Go up ↑](#my-projects)
 
