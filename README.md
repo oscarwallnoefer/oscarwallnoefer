@@ -30,9 +30,9 @@ Using squamate reptiles as a model system, I investigated these questions throug
 * Wallnoefer, O., Martini, M., Galletti, G., Gabriele, N., Passamonti, M., and Plazzi, F., 2026. Proteome-wide evolutionary rate covariation reveals the mitonuclear coevolutionary landscape in Squamata. 25 March 2026, PREPRINT (Version 1) available at Research Square [https://doi.org/10.21203/rs.3.rs-9148480/v1]
 * Wallnoefer, O., Formaggioni, A., Plazzi, F. and Passamonti, M., 2025. Convergent evolution in nuclear and mitochondrial OXPHOS subunits underlies the phylogenetic discordance in deep lineages of Squamata. Molecular Phylogenetics and Evolution, 208, pp.1-11. [https://doi.org/10.1016/j.ympev.2025.108358]
 
-</details>
-
 [↑ Go up ↑](#my-projects)
+
+</details>
 
 ---
 <details>
@@ -58,9 +58,9 @@ I am investigating these questions across two systems: Gastrotricha for microRNA
 ### Main collaborator
 * Prof. **Bastian Fromm** (Arctic University of Norway)
 
-</details>
-
 [↑ Go up ↑](#my-projects)
+
+</details>
 
 ---
 <details>
@@ -81,8 +81,7 @@ These projects were developed in tight collaboration with the University of Mode
 
 ### Main collaborator
 * Prof. **M. Antonio Todaro** (University of Modena and Reggio Emilia)
-
-</details>
   
 [↑ Go up ↑](#my-projects)
 
+</details>
