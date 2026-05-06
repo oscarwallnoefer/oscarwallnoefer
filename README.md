@@ -12,8 +12,10 @@ Here is a list of my research projects:
 * [**Phylogenomics of understudied animal phyla**](#phylogenomics-of-understudied-animal-phyla)
 
 ---
+<details>
+<summary> :dna: Mitonuclear coevolution through coding genes </summary>
 
-## :dna: Mitonuclear coevolution through coding genes
+## Mitonuclear coevolution through coding genes
 
 Within the eukaryotic cell, two physically separate genomes, nuclear and mitochondrial, must maintain functional compatibility despite differing mutation rates, inheritance patterns, and evolutionary pressures. **Mitonuclear coevolution** describes the processes that maintain this compatibility over evolutionary time.
 
@@ -28,11 +30,15 @@ Using squamate reptiles as a model system, I investigated these questions throug
 * Wallnoefer, O., Martini, M., Galletti, G., Gabriele, N., Passamonti, M., and Plazzi, F., 2026. Proteome-wide evolutionary rate covariation reveals the mitonuclear coevolutionary landscape in Squamata. 25 March 2026, PREPRINT (Version 1) available at Research Square [https://doi.org/10.21203/rs.3.rs-9148480/v1]
 * Wallnoefer, O., Formaggioni, A., Plazzi, F. and Passamonti, M., 2025. Convergent evolution in nuclear and mitochondrial OXPHOS subunits underlies the phylogenetic discordance in deep lineages of Squamata. Molecular Phylogenetics and Evolution, 208, pp.1-11. [https://doi.org/10.1016/j.ympev.2025.108358]
 
+</details>
+
 [↑ Go up ↑](#my-projects)
 
 ---
+<details>
+<summary> :dna: Mitonuclear coevolution through non-coding genes </summary>
 
-## :dna: Mitonuclear coevolution through non-coding genes
+## Mitonuclear coevolution through non-coding genes
 
 Mitonuclear coevolution is not limited to protein interactions. Non-coding RNAs represent an additional and largely underexplored layer of regulation linking the two genomes.
 
@@ -52,12 +58,15 @@ I am investigating these questions across two systems: Gastrotricha for microRNA
 ### Main collaborator
 * Prof. **Bastian Fromm** (Arctic University of Norway)
 
+</details>
+
 [↑ Go up ↑](#my-projects)
 
 ---
 <details>
+<summary> :dna: Phylogenomics of understudied animal phyla </summary>
 
-<summary>## :dna: Phylogenomics of understudied animal phyla</summary>
+## Phylogenomics of understudied animal phyla
 
 Investigating genome evolution requires robust phylogenetic frameworks. In parallel to my main research, I have contributed to phylogenomic studies of Gastrotricha and Spiralia, two groups whose evolutionary relationships remain debated.
 
