@@ -35,16 +35,17 @@ Mitonuclear coevolution is not limited to protein interactions. Non-coding RNAs 
 The nucleus exerts control over mitochondrial activity through *anterograde regulation*. MicroRNAs have emerged as important modulators of transcription and, among others, they might regulates mitochondrial activity. Conversely, mitochondria themselves may produce small RNAs (such as smithRNA) that might influence nuclear gene expression (*retrograde signaling*). In this context, I aim to contribute for answering the following questions: 
 
 +  *How do microRNA repertoires evolve in lineages with unusual mitochondrial genome architectures?*
-+  *Can mitochondrially-encoded small RNAs participate in retrograde signaling?*
++  *Can mitochondrially encoded small RNAs participate in retrograde signaling?*
 
-I am investigating these questions across two systems: Gastrotricha for microRNA evolution, and the bivalve *Ruditapes philippinarum* for mitochondrially-encoded small RNAs (smithRNAs), a species with mitochondrial doubly uniparental inheritance (DUI).
+I am investigating these questions across two systems: Gastrotricha for microRNA evolution, and the bivalve *Mytilus edulis* for mitochondrially encoded small RNAs (smithRNAs), a species with mitochondrial doubly uniparental inheritance (DUI).
 
 > [!NOTE]
 > in progress
 
 ### Related papers
 * Wallnoefer et al. — *in preparation* — Gastrotricha microRNA complement
-
+* Wallnoefer et al. — *in preparation* — SmithRNAs in _M. edulis_
+ 
 ### Main collaborator
 * Prof. **Bastian Fromm** (Arctic University of Norway)
 
